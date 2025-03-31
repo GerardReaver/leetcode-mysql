@@ -20,3 +20,4 @@ INSERT INTO Employees1741 (emp_id, event_day, in_time, out_time) VALUES
 SELECT event_day AS day, emp_id, SUM(out_time - in_time) AS total_time
 FROM employees1741
 GROUP BY emp_id, event_day;
+-- to run a sum mathmatical equation you just need to put it in parenthesis around the code and give it an alias. 
