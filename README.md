@@ -7,3 +7,4 @@ Listed Problems completed.
   5. 1741 'Find Total Time Spent by Each Employee'
   6. 1757 'Recyclable and Low Fat Products'
   7. 2356 'Number of Unique Subjects Taught by Each Teacher'
+  8. 1693 'Daily Leads and Partners'
