@@ -4,12 +4,13 @@ Listed Problems completed.
   2. 181 'Employees Earning More Than THeir Managers' EASY
   3. 182 'Duplicate Emails' EASY
   4. 183 'Customers who never order' EASY
-  5. 577 'Employee Bonus' EASY
-  6. 595 'Big Countries' EASY
-  7. 596 'Classes More Than 5 Students' EASY
-  8. 1683 'Invalid Tweets' EASY
-  9. 1693 'Daily Leads and Partners' EASY
-  10. 1741 'Find Total Time Spent by Each Employee' EASY
-  11. 1757 'Recyclable and Low Fat Products' EASY
-  12. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
-  13. 
+  5. 197 'Rising Temperature' EASY
+  6. 577 'Employee Bonus' EASY
+  7. 595 'Big Countries' EASY
+  8. 596 'Classes More Than 5 Students' EASY
+  9. 1683 'Invalid Tweets' EASY
+  10. 1693 'Daily Leads and Partners' EASY
+  11. 1741 'Find Total Time Spent by Each Employee' EASY
+  12. 1757 'Recyclable and Low Fat Products' EASY
+  13. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
+  14. 
