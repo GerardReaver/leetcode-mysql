@@ -15,24 +15,4 @@ Listed Problems completed.
   13. 1741 'Find Total Time Spent by Each Employee' EASY
   14. 1757 'Recyclable and Low Fat Products' EASY
   15. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
-  16. <font color="red">This text is red!</font>
-  <span style="color: red;">This text is red.</span>
-<span style="color: #00FF00;">This text is green.</span>
-<span style="color: blue;">This text is blue.</span>
-<span class="my-color-class">Colored text</span>
-
-# Example: Colored Text in Markdown
-
-This is **normal text**.
-
-<span style="color: red;">This text is red.</span>
-
-<span style="color: blue;">This text is blue.</span>
-
-This is normal again, but <span style="color: green;">this part is green</span>.
-
-You can also use hex codes:
-
-<span style="color: #FF69B4;">This text is pink.</span>
-
-
+  16. 
