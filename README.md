@@ -15,4 +15,9 @@ Listed Problems completed.
   13. 1741 'Find Total Time Spent by Each Employee' EASY
   14. 1757 'Recyclable and Low Fat Products' EASY
   15. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
-  16. 
+  16. <font color="red">This text is red!</font>
+  <span style="color: red;">This text is red.</span>
+<span style="color: #00FF00;">This text is green.</span>
+<span style="color: blue;">This text is blue.</span>
+
+
