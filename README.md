@@ -19,5 +19,7 @@ Listed Problems completed.
   <span style="color: red;">This text is red.</span>
 <span style="color: #00FF00;">This text is green.</span>
 <span style="color: blue;">This text is blue.</span>
+<span class="my-color-class">Colored text</span>
+
 
 
