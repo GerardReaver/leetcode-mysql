@@ -21,5 +21,18 @@ Listed Problems completed.
 <span style="color: blue;">This text is blue.</span>
 <span class="my-color-class">Colored text</span>
 
+# Example: Colored Text in Markdown
+
+This is **normal text**.
+
+<span style="color: red;">This text is red.</span>
+
+<span style="color: blue;">This text is blue.</span>
+
+This is normal again, but <span style="color: green;">this part is green</span>.
+
+You can also use hex codes:
+
+<span style="color: #FF69B4;">This text is pink.</span>
 
 
