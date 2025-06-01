@@ -7,12 +7,13 @@ Listed Problems completed.
   5. 197 'Rising Temperature' EASY
   6. 577 'Employee Bonus' EASY
   7. 584 'Find Customer Referee' EASY
-  8. 595 'Big Countries' EASY
-  9. 596 'Classes More Than 5 Students' EASY
-  10. 1378 'Replace Employee ID With The Unique Identifier' EASY
-  11. 1683 'Invalid Tweets' EASY
-  12. 1693 'Daily Leads and Partners' EASY
-  13. 1741 'Find Total Time Spent by Each Employee' EASY
-  14. 1757 'Recyclable and Low Fat Products' EASY
-  15. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
-  16. 
+  8. 586 'Customer Placing the Largest Number of Orders' EASY
+  9. 595 'Big Countries' EASY
+  10. 596 'Classes More Than 5 Students' EASY
+  11. 1378 'Replace Employee ID With The Unique Identifier' EASY
+  12. 1683 'Invalid Tweets' EASY
+  13. 1693 'Daily Leads and Partners' EASY
+  14. 1741 'Find Total Time Spent by Each Employee' EASY
+  15. 1757 'Recyclable and Low Fat Products' EASY
+  16. 2356 'Number of Unique Subjects Taught by Each Teacher' EASY
+  17. 
